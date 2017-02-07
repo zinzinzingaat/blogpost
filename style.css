@@ -9,3 +9,11 @@ h1 {
     font-family: fantasy;
     color: green;
 }
+
+.main-text {
+    text-align: justify
+}
+
+#author{
+    color: blue;
+}
