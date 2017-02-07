@@ -20,7 +20,7 @@ h1 {
 }
 
 .author {
-    color: crimson;
+    color: blue;
 }
 
 .container {
@@ -41,5 +41,18 @@ h1 {
 }
 
 .author-info {
+    border-top: 1px solid;
+    padding: 10px;
     clear: both;
+}
+
+.author-info img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.others {
+    margin-top: 40px;
+    margin-left: 40px;
 }
